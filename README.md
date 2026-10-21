@@ -1,3 +1,5 @@
+![check-crlf-action header](https://raw.githubusercontent.com/gi-org-pl/check-crlf-action/main/.github/image/header.png)
+
 # check-crlf-action
 
 A GitHub Action that fails if any tracked files in the repository contain CRLF line endings.
